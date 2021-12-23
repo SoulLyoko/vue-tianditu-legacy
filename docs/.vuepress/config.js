@@ -1,10 +1,10 @@
 module.exports = {
-  base: "/vue-tianditu/",
+  base: "/vue-tianditu-legacy/",
   dest: "docs/.vuepress/dist/",
   title: "vue-tianditu文档",
   description: "vue-tianditu文档",
   themeConfig: {
-    repo: "SoulLyoko/vue-tianditu",
+    repo: "SoulLyoko/vue-tianditu-legacy",
     displayAllHeaders: true,
     nav: [
       {
