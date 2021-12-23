@@ -1,6 +1,6 @@
 module.exports = {
-  base: "/vue-tianditu/v1/",
-  dest: "docs/.vuepress/dist/v1",
+  base: "/vue-tianditu/",
+  dest: "docs/.vuepress/dist/",
   title: "vue-tianditu文档",
   description: "vue-tianditu文档",
   themeConfig: {
@@ -9,7 +9,7 @@ module.exports = {
     nav: [
       {
         text: "v1.x",
-        items: [{ text: "v2.x", link: "https://soullyoko.github.io/vue-tianditu/v2/" }]
+        items: [{ text: "v2.x", link: "https://soullyoko.github.io/vue-tianditu/" }]
       },
       { text: "天地图官网", link: "https://www.tianditu.gov.cn/" }
     ],

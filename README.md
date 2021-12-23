@@ -1,10 +1,12 @@
 # vue-tianditu
 
-天地图 vue 组件库
+- 天地图 vue 组件库
 
-[vue-tianditu 文档 v1](https://soullyoko.github.io/vue-tianditu/v1/)
+- vue-tianditu v1.x 已不再维护，请使用[vue-tianditu v2](https://github.com/SoulLyoko/vue-tianditu)
 
-[vue-tianditu 文档 v2](https://soullyoko.github.io/vue-tianditu/v2/)
+- [vue-tianditu 文档 v1](https://soullyoko.github.io/vue-tianditu-legacy/)
+
+- [vue-tianditu 文档 v2](https://soullyoko.github.io/vue-tianditu/)
 
 ## 安装
 
