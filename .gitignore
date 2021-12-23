@@ -2,7 +2,7 @@
 node_modules
 dist
 lib
-
+.history
 
 # local env files
 .env.local
